@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Seven ages of man ",
+    "author": "childhood to old age",
+    "category": "Hassan",
+    "available": false
+  },
+  {
+    "id": 2,
+    "title": "Seven ages of man ",
+    "author": "childhood to old age",
+    "category": "Hassan",
+    "available": true
+  }
+]

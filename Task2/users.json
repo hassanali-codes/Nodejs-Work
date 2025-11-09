@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Hassan",
+    "borrowedBooks": [
+      "Seven ages of man "
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hassan",
+    "borrowedBooks": []
+  }
+]
